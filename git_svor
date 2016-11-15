@@ -6,3 +6,10 @@ Git spurningar og svör
 	ls	sýnir upplýsingar um skránna sem notandi er í
 	pwd	skrifar fulla slóð
 	mkdir  	Býr til nýja möppu
+
+2. 	Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone 	Klónar github repository í nýja möppu
+	git log		Sýnir hvaða breytingar hafa átt sér stað
+	git status	sýnir notanda stöðu á repository og breytingar
+	git diff	sýnir notanda alla breytingar
+	git checkout	Leifir notanda að breyta um grein
