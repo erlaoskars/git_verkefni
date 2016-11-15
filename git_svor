@@ -19,3 +19,5 @@ Git spurningar og svör
 	b) git diff --staged Sýnir breytingar á milli head og index
 	c) git diff commit1 commit2 Sýnir munin á milli commit1 og commit2
 
+4. 	Hvað er útgáfustýring (e.version control)? 
+	Gefur kóðanum útgáfu svo að notandi viti hvað er elst og hvað er nýjast
