@@ -1,1 +1,8 @@
 Git spurningar og svör
+
+1. 	Hvað gera eftirfarandi Linux skipanir?
+	Cd	Færir notandi í möppuna á undan
+	cd ~	Færir notandi í möppuna undan og setur „~“ fyrir framan til að það sé auðveldara að flakka á milli seinna
+	ls	sýnir upplýsingar um skránna sem notandi er í
+	pwd	skrifar fulla slóð
+	mkdir  	Býr til nýja möppu
